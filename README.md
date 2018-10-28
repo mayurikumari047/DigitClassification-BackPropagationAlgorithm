@@ -1,0 +1,2 @@
+# DigitClassificationUsingBackPropagationAlgorithm
+Implementation of Backpropagation Algorithm for Digit Classification on MNIST dataset
