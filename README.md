@@ -1,5 +1,6 @@
 # Pattern Classification-Backpropagation Algorithm
-Digit/Pattern Classification using Backpropagation Algorithm on MNIST dataset
+
+Scratch implmentation of Backpropagation Algorithm for Digit/Pattern Classification on MNIST dataset without any use of existing Machine Learning libraries 
 
 Size of the training data set for pattern classification: 60000 * 784
 
